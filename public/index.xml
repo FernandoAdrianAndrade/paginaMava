@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Market Variance®</title>
+    <link>/</link>
+    <description>Recent content on Market Variance®</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-MX</language>
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análisis del Debate Presidencial de México del 2018*</title>
+      <link>/blog/debate-presidencial-2018/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/debate-presidencial-2018/</guid>
+      <description>Los hombres hábiles ambicionan convencer, los hombres mediocres o sin talento no aspiran sino mandar.</description>
+    </item>
+    
+    <item>
+      <title>Interestelar y los universos paralelos</title>
+      <link>/blog/universos-paralelos/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/universos-paralelos/</guid>
+      <description>La verdad se encuentra en la simplicidad y no en la multiplicidad y confusión de las cosas.</description>
+    </item>
+    
+    <item>
+      <title>Valores, marcas y nobleza</title>
+      <link>/blog/2019-08-14-valores-marcas-y-nobleza/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-08-14-valores-marcas-y-nobleza/</guid>
+      <description>No todo lo grande es bueno, pero sí todo lo bueno es grande.</description>
+    </item>
+    
+    <item>
+      <title>Sin teoría no hay investigación</title>
+      <link>/blog/teor%C3%ADa-e-investigaci%C3%B3n/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/teor%C3%ADa-e-investigaci%C3%B3n/</guid>
+      <description>Son ciegos, guías de ciegos; y si un ciego guía a otro ciego, ambos caerán en el hoyo.</description>
+    </item>
+    
+    <item>
+      <title>Gurús del marketing</title>
+      <link>/blog/gur%C3%BAs-del-marketing/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/gur%C3%BAs-del-marketing/</guid>
+      <description>Era muy fácil saber lo que uno quería ser. Desde niño a uno le preguntaban ¿qué vas a ser de grande, Jorgito?</description>
+    </item>
+    
+  </channel>
+</rss>

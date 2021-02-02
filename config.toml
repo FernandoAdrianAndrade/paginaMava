@@ -1,0 +1,178 @@
+######################## default configuration ####################
+
+baseURL = ""
+title = "Market Variance®"
+theme = "bigspring-hugo-startup-theme"
+languageName = "es"
+languageCode = "es-MX"
+# post pagination
+paginate = "3"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+#disqusShortname = "" # get your shortname form here : https://disqus.com
+# google analytics
+googleAnalytics = "UA83617602-1" # example : UA-123-45
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Options ############################
+
+[permalinks]
+posts = "/:year/:month/:day/:slug/"
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+
+
+############################## navigation ###############################
+
+# main menu
+
+[[menu.main]]
+name = "Inicio"
+URL = ""
+weight = 1
+
+[[menu.main]]
+name = "Nosotros"
+URL = "nosotros"
+weight = 2
+
+[[menu.main]]
+name = "Servicios"
+URL = "servicios"
+weight = 3
+
+[[menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 4
+
+[[menu.main]]
+name = "Recursos"
+URL = "recursos"
+weight = 5
+
+[[menu.main]]
+name = "Contacto"
+URL = "contact"
+weight = 6
+
+# footer menu left
+[[menu.footer_left]]
+name = "Inicio"
+URL = ""
+weight = 1
+
+[[menu.footer_left]]
+name = "Nosotros"
+URL = "nosotros"
+weight = 2
+
+[[menu.footer_left]]
+name = "Contacto"
+URL = "contact"
+weight = 3
+
+# footer menu middle
+[[menu.footer_middle]]
+name = "Estudios"
+URL = "servicios"
+weight = 1
+
+[[menu.footer_middle]]
+name = "Capacitación"
+URL = "servicios"
+weight = 2
+
+[[menu.footer_middle]]
+name = "Recursos"
+URL = "recursos"
+weight = 3
+
+# footer menu right
+[[menu.footer_right]]
+name = "Aviso de privacidad"
+URL = "politica"
+weight = 1
+
+#[[menu.footer_right]]
+#name = "Términos y condiciones"
+#URL = "politica"
+#weight = 2
+
+#[[menu.footer_right]]
+#name = "Recursos"
+#URL = "faq"
+#weight = 3
+
+#################### default parameters ################################
+
+[params]
+logo = "images/logo.png"
+logo_width = "175px"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+
+########### footer content ##########
+
+footer_menu_left = "Empresa"
+footer_menu_middle = "Servicios"
+footer_menu_right = "Políticas"
+footer_content = "Market Variance® desde 2004.<br>Dir. Gral. Jorge Andrade Rios.<br>info@marketvariance.com"
+
+# copyright
+copyright = "Varianza de Mercado SC, Market Variance®, México, enero-2021.<br> todos los derechos reservados©."
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation buttons
+[params.navigation_button]
+enable = true
+label = "Informes"
+link = "contact"
+
+############################# social site ########################
+
+[[params.social]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/marketvariance"
+
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/marketvariance"
+
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "www.linkedin.com/in/marketvariance"
+
+[[params.social]]
+title = "github"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "https://github.com/MarketVariance"

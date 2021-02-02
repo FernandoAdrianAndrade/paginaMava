@@ -1,0 +1,16 @@
+---
+title: Caminos sobre la mar
+author: Jorge Andrade
+date: '2021-01-30'
+draft: true
+type: regular
+image: images/sea_wake.jpg
+slug: []
+categories: []
+tags: []
+---
+
+><i>Yo amo los mundos sutiles, ingrávidos y gentiles como pompas de jabón.</i>
+> <p align="right">---Antonio Machado (1875-1939).</p>
+
+Hay cosas que nos parecen bellas aun cuando no las entendamos del todo, la poesía es una de ellas. Es muy bello el poema de Machado *Proverbios y cantares*, pero no sabemos por qué nos lo parece así  y no es porque Serrat lo haya divulgado a través de su canción *Cantares*.  

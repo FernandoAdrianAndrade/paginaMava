@@ -1,0 +1,112 @@
+####################### Banner #########################
+
+banner:
+  title : "Investigación que hace sentido."
+  image : "images/empresa_3.png"
+  content : "El camino más corto al consumidor está en la memoria semántica, <br>
+  las redes sociales, el lenguaje, la comunidad y sus emociones."
+  button:
+    enable : true
+    label : "Contáctanos"
+    link : "contact"
+
+##################### Feature ##########################
+
+feature:
+  enable : true
+  title : "Modelos y Técnicas"
+  feature_item:
+
+    # feature item loop
+    - name : "Brand equity y dashboards"
+      icon : "ti-dashboard"
+      content : "Mide el capital de marca y construye tu propio dashboard en R, Python o Excel."
+
+    # feature item loop
+    - name : "Redes sociales y social listening"
+      icon : "ti-heart"
+      content : "Estadísticas de conceptos, emociones y sentimientos en Twitter, Youtube, etc."
+
+    # feature item loop
+    - name : "Redes semánticas naturales"
+      icon : "ti-layout-grid3"
+      content : "Descubre el posicionamiento de marca y la mejor estrategia de comunicación."
+
+    # feature item loop
+    - name : "Proceso de lenguaje natural"
+      icon : "ti-comments"
+      content : "Análisis cuantitativo de texto, desde preguntas abiertas hasta discursos."
+
+    # feature item loop
+    - name : "Modelos clásicos"
+      icon : "ti-pie-chart"
+      content : "Conjoint analysis, segmentación, elasticidad de precios, pruebas de concepto, etc."
+
+    # feature item loop
+    - name : "Capacitación y consultoría"
+      icon : "ti-book"
+      content : "Aprende estadística con nosotros, R, SPSS, Gephi, PNL, modelos de investigación, etc."
+
+######################### Service #####################
+
+service:
+  enable : true
+  service_item:
+    # service item loop
+    - title : "Investigación que va calada"
+      images:
+      - "images/coca.png"
+      - "images/coca_valores.png"
+      - "images/quaker_filial.png"
+      content : "Empleamos modelos que tienen respaldo teoríco probado. Por ejemplo, redes semánticas naturales y procesamiento de lenguaje natural."
+      button:
+        enable : true
+        label : "LEER MÁS"
+        link : "recursos"
+        
+    # service item loop
+    - title : "Análisis cuantitativo de texto"
+      images:
+      - "images/emocion.png"
+      content : "Nuestros lematizador y diccionarios de emociones, sentimientos, y taxonomías se contruyen y actualizan con base en estudios hechos en México."
+      button:
+        enable : true
+        label : "LEER MÁS"
+        link : "servicios"
+        
+    # service item loop
+    - title : "Herramientas de análisis poderosas"
+      images:
+      - "images/aplicacion_shiny.png"
+      content : "Aplicaciones y dashboards propios, sin que el cliente tenga que pagar un peso más para adquirir un software especializado."
+      button:
+        enable : true
+        label : "LEER MÁS"
+        link : "servicios"
+        
+    # service item loop
+    - title : "Modelos clásicos de investigación"
+      images:
+      - "images/elasticidad.png"
+      content : "¿Hacemos investigación clásica?, sí, sí la hacemos; desde una simple elasticidad de precios hasta estudios de segmentación."
+      button:
+        enable : true
+        label : "LEER MÁS"
+        link : "servicios"
+        
+################### Screenshot ########################
+# screenshot:
+#   enable : true
+#   title : "Experience the best <br> workflow with us"
+#   image : "images/screenshot.svg"
+
+##################### Call to action #####################
+call_to_action:
+  enable : true
+  title : "Trabajemos juntos y comprueba nuestros dichos."
+  image : "images/saludo.png"
+  content : "Permítenos conocerte, y date la oportunidad de ver y hacer cosas nuevas. Investigación que sí hace sentido."
+  button:
+    enable : true
+    label : "Contáctanos"
+    link : "contact"
